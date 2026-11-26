@@ -1,3 +1,5 @@
+> このフォークについて：デジタル地下室（note: sumaho_lab）が自前環境で使うためのフォークです。上流は H1M4W4R1/mdtable2png（https://github.com/H1M4W4R1/mdtable2png）です。
+
 # mdtable2png
 
 `mdtable2png` is a small command-line tool for turning the first Markdown table in a file into image output.
